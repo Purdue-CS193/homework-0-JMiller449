@@ -1,5 +1,10 @@
 # Joseph Miller's First CS193 Homework
 
+My Favourite Things about CS193:
+- It's Computer Science! I get to learn more about coding!
+- I also get to learn about the terminal and all of the really cool things I can do with it!
+- All of the TA's that teach the class are really cool!
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
